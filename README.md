@@ -1,2 +1,2 @@
-# godm
-Golang Object Document Model for Mongodb Based on Official Driver
+# GODM
+Golang Object Document Model and Pagination Framework for Mongodb Based on Official Driver
